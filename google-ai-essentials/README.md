@@ -1,108 +1,62 @@
-# 🏆 Certificates & Achievements
+# Google AI Essentials — Specialization Certificate
 
-> A structured collection of all my professional certifications — organized by category, continuously updated.
+![Google AI Essentials Certificate](./certificate.jpeg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Certifications-1-brightgreen?style=for-the-badge" alt="Total Certs"/>
-  <img src="https://img.shields.io/badge/Platforms-Coursera%20%7C%20Google-blue?style=for-the-badge" alt="Platforms"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
-</p>
+> **Abdul Wahid** has successfully completed the online Specialization on May 31, 2026
 
 ---
 
-## 📂 Repository Structure
+## 📋 Certificate Details
 
-```
-📦 certificates/
- ┣ 📁 google-ai-essentials/
- │   ┣ 🖼️ certificate.jpeg
- │   ┗ 📜 README.md
- ┣ 📁 (more coming soon)/
- ┗ 📜 README.md  ← You are here
-```
-
-> Each folder contains the **certificate image** and a **detailed README** with course info, skills gained, and a verification link.
-
----
-
-## 📜 All Certificates
-
-### 🤖 Artificial Intelligence
-
-| Certificate | Issuer | Platform | Date | Verify |
-|---|---|---|---|---|
-| [Google AI Essentials](./google-ai-essentials/) | Google | Coursera | May 2026 | [🔗 Verify](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
-
----
-
-### ☁️ Cloud Computing
-> 🚧 Coming soon...
-
----
-
-### 💻 Development
-> 🚧 Coming soon...
-
----
-
-### 📊 Data & Analytics
-> 🚧 Coming soon...
-
----
-
-### 🔐 Cybersecurity
-> 🚧 Coming soon...
-
----
-
-## 📊 Stats
-
-| Category | Count |
+| Detail | Info |
 |---|---|
-| 🤖 Artificial Intelligence | 1 |
-| ☁️ Cloud Computing | 0 |
-| 💻 Development | 0 |
-| 📊 Data & Analytics | 0 |
-| 🔐 Cybersecurity | 0 |
-| **🏆 Total** | **1** |
+| **Issued By** | Google |
+| **Platform** | Coursera |
+| **Issued To** | Abdul Wahid |
+| **Date Completed** | May 31, 2026 |
+| **Type** | Specialization Certificate |
+| **Total Courses** | 5 |
+| **Signed By** | Amanda Brophy, Global Director of Google Career Certificates |
+| **Verify** | [🔗 https://coursera.org/verify/specialization/ET3L35MRSLBI](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
 
 ---
 
-## 🌐 Platforms
+## 📚 Courses Completed
 
-| Platform | Certificates |
+| # | Course |
 |---|---|
-| ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white) | 1 |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) | 1 |
+| 1 | **Introduction to AI** |
+| 2 | **Maximize Productivity With AI Tools** |
+| 3 | **Discover the Art of Prompting** |
+| 4 | **Use AI Responsibly** |
+| 5 | **Stay Ahead of the AI Curve** |
 
 ---
 
-## 🙋 About Me
+## 📝 About This Certificate
 
-I'm **Abdul Wahid**, passionate about AI, technology, and continuous learning.
-This repo tracks my learning journey and professional growth.
-
-- 🐙 **GitHub:** [github.com/abduIwahid](https://github.com/abduIwahid)
-- 💼 **LinkedIn:** [linkedin.com/in/abdu1wahid](https://linkedin.com/in/abdu1wahid)
-- 📧 **Email:** wahidkingyt10@gmail.com
+Those who earn the Google AI Essentials Certificate have completed five courses, developed by Google, featuring hands-on practice designed to build AI skills. They are competent in using AI tools responsibly and improving productivity across their workflow.
 
 ---
 
-## 🔄 How to Navigate
+## 🧠 Skills Gained
 
-1. Click any **certificate name** in the table above to go to its folder
-2. Each folder has a full `README.md` with details and skills
-3. All certificates include a **live verification link**
+- ✅ Using AI tools for everyday productivity
+- ✅ Effective prompt engineering techniques
+- ✅ Understanding of AI ethics and responsible use
+- ✅ Awareness of emerging AI trends and technologies
+- ✅ Hands-on experience with Google's AI-powered tools
 
 ---
 
-## 📌 Note
+## 🔍 Verify Certificate
 
-> All certificates listed here are legitimate and independently verifiable via their respective platform links. This repository is for portfolio and professional reference purposes only.
+**🔗 [https://coursera.org/verify/specialization/ET3L35MRSLBI](https://coursera.org/verify/specialization/ET3L35MRSLBI)**
+
+> _This certificate attests to the learner's completion of an online program delivered via Coursera. It does not constitute formal enrollment at any university or entity and does not itself grant academic credit, grades, or a degree. Institutions or organizations may, at their discretion, recognize this learning toward their own programs or credentials._
 
 ---
 
 <p align="center">
-  <i>⭐ Star this repo if you find it helpful or inspiring!</i><br/>
-  <i>📅 Last Updated: May 2026</i>
+  <i>📅 Completed: May 31, 2026 &nbsp;|&nbsp; 🏅 Issued by Google via Coursera</i>
 </p>
