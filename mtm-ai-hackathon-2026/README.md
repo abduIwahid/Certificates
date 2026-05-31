@@ -17,7 +17,7 @@
 | **Organized By** | Google Developer Groups — COMSATS University Wah Campus |
 | **Status** | Participation Verified |
 | **Signed By** | Ubaid Ghazi (Campus Lead GDGoC) & Dr. Kashif Ayyub (Faculty Head GDGoC) |
-| **Verify** | [🔗 View Certificate](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view) |
+| **Verify** | [🔗 View Certificate](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view)) |
 
 ---
 
@@ -64,7 +64,7 @@ COMSATS University Wah Campus
 
 ## 🔍 Verify Certificate
 
-**🔗 [https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view)**
+**🔗 [https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view)**
 
 ---
 
