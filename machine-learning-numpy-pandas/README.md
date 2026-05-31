@@ -18,7 +18,7 @@
 | **Platform** | Educative |
 | **Certification ID** | 1SX3S0S4GG |
 | **Signed By** | Fahim Ul Haq, Founder & CEO of Educative |
-| **Verify** | [🔗 View Certificate](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
+| **Verify** | [🔗 View Certificate](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view) |
 
 ---
 
@@ -65,7 +65,7 @@ This course provides comprehensive hands-on training in the most essential Pytho
 
 ## 🔍 Verify Certificate
 
-**🔗 [https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view)**
+**🔗 [https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view)**
 
 > _This certificate acknowledges that the learner has successfully completed the course on the Educative platform. Certification ID: 1SX3S0S4GG_
 
