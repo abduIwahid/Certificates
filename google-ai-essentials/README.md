@@ -84,7 +84,7 @@ This repo tracks my learning journey and professional growth.
 
 - 🐙 **GitHub:** [github.com/abduIwahid](https://github.com/abduIwahid)
 - 💼 **LinkedIn:** [linkedin.com/in/abdu1wahid](https://linkedin.com/in/abdu1wahid)
-- 📧 **Email:** your@email.com
+- 📧 **Email:** wahidkingyt10@gmail.com
 
 ---
 
