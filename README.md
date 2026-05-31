@@ -37,7 +37,9 @@
 | Certificate | Issuer | Platform | Date | Verify |
 |---|---|---|---|---|
 | [Google AI Essentials](./google-ai-essentials/) | Google | Coursera | May 2026 | [🔗 Verify](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
-| [MTM — Mind-to-Machine AI Hackathon](./mtm-ai-hackathon-2026/) | GDG COMSATS Wah | Google Developer Groups | May 2026 | [🔗 Verify](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view) |
+| [MTM — Mind-to-Machine AI Hackathon](./mtm-ai-hackathon-2026/) | GDG COMSATS Wah | Google Developer Groups | May 2026 | [🔗 Verify](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
+
+
 
 ---
 
@@ -45,7 +47,7 @@
 
 | Certificate | Issuer | Platform | Date | Verify |
 |---|---|---|---|---|
-| [Machine Learning with NumPy, pandas, scikit-learn, and More](./machine-learning-numpy-pandas/) | Educative | Educative.io | May 2026 | [🔗 Verify](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
+| [Machine Learning with NumPy, pandas, scikit-learn, and More](./machine-learning-numpy-pandas/) | Educative | Educative.io | May 2026 | [🔗 Verify](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view) |
 
 ---
 
