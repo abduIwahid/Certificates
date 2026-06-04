@@ -23,7 +23,7 @@
  ┣ 📁 mtm-ai-hackathon-2026/
  │   ┣ 🖼️ certificate.jpeg
  │   ┗ 📜 README.md
- ┗ 📜 README.md  ← You are here
+ ┗ 📜 README.md 
 ```
 
 > Each folder contains the **certificate image** and a **detailed README** with course info, skills gained, and a verification link.
@@ -51,30 +51,12 @@
 
 ---
 
-### ☁️ Cloud Computing
-> 🚧 Coming soon...
-
----
-
-### 💻 Development
-> 🚧 Coming soon...
-
----
-
-### 🔐 Cybersecurity
-> 🚧 Coming soon...
-
----
-
 ## 📊 Stats
 
 | Category | Count |
 |---|---|
 | 🤖 Artificial Intelligence | 2 |
 | 📊 Data & Analytics | 1 |
-| ☁️ Cloud Computing | 0 |
-| 💻 Development | 0 |
-| 🔐 Cybersecurity | 0 |
 | **🏆 Total** | **3** |
 
 ---
