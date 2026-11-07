@@ -78,7 +78,7 @@ This repo tracks my learning journey and professional growth.
 
 - 🐙 **GitHub:** [github.com/abduIwahid](https://github.com/abduIwahid)
 - 💼 **LinkedIn:** [linkedin.com/in/abdu1wahid](https://linkedin.com/in/abdu1wahid)
-- 📧 **Email:** wahidkingyt10@gmail.com
+- 📧 **Email:** contact@abdulwahid.me
 
 ---
 
@@ -98,5 +98,5 @@ This repo tracks my learning journey and professional growth.
 
 <p align="center">
   <i>⭐ Star this repo if you find it helpful or inspiring!</i><br/>
-  <i>📅 Last Updated: May 2026</i>
+  <i>📅 Last Updated: November 2026</i>
 </p>
