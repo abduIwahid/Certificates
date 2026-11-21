@@ -41,7 +41,7 @@
 |---|---|---|---|---|
 | [Google AI Essentials](./google-ai-essentials/) | Google | Coursera | May 2026 | [🔗 Verify](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
 | [MTM — Mind-to-Machine AI Hackathon](./mtm-ai-hackathon-2026/) | GDG COMSATS Wah | Google Developer Groups | May 2026 | [🔗 Verify](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
-| [MTM Hackathon '26 — Mind-to-Machine](./mtm-hackathon-26/) | GDG COMSATS Wah | Google Developer Groups | Nov 2026 | [🔗 Verify](./mtm-hackathon-26/certificate.jpeg) |
+| [MTM Hackathon '26 — Mind-to-Machine](./mtm-hackathon-26/) | GDG COMSATS Wah | Google Developer Groups | Nov 2026 | [🔗 Verify](https://drive.google.com/file/d/1yhjiMAYIJWojUvCZs7UZu_GNtH4UBVXy/view?usp=share_link) |
 
 
 
