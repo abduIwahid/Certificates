@@ -3,7 +3,7 @@
 > A structured collection of all my professional certifications — organized by category, continuously updated.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certifications-3-brightgreen?style=for-the-badge" alt="Total Certs"/>
+  <img src="https://img.shields.io/badge/Certifications-4-brightgreen?style=for-the-badge" alt="Total Certs"/>
   <img src="https://img.shields.io/badge/Platforms-Coursera%20%7C%20Google%20%7C%20Educative-blue?style=for-the-badge" alt="Platforms"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
 </p>
@@ -23,6 +23,9 @@
  ┣ 📁 mtm-ai-hackathon-2026/
  │   ┣ 🖼️ certificate.jpeg
  │   ┗ 📜 README.md
+ ┣ 📁 mtm-hackathon-26/
+ │   ┣ 🖼️ certificate.jpeg
+ │   ┗ 📜 README.md
  ┗ 📜 README.md 
 ```
 
@@ -38,6 +41,7 @@
 |---|---|---|---|---|
 | [Google AI Essentials](./google-ai-essentials/) | Google | Coursera | May 2026 | [🔗 Verify](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
 | [MTM — Mind-to-Machine AI Hackathon](./mtm-ai-hackathon-2026/) | GDG COMSATS Wah | Google Developer Groups | May 2026 | [🔗 Verify](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
+| [MTM Hackathon '26 — Mind-to-Machine](./mtm-hackathon-26/) | GDG COMSATS Wah | Google Developer Groups | Nov 2026 | [🔗 Verify](./mtm-hackathon-26/certificate.jpeg) |
 
 
 
@@ -55,9 +59,9 @@
 
 | Category | Count |
 |---|---|
-| 🤖 Artificial Intelligence | 2 |
+| 🤖 Artificial Intelligence | 3 |
 | 📊 Data & Analytics | 1 |
-| **🏆 Total** | **3** |
+| **🏆 Total** | **4** |
 
 ---
 
@@ -66,7 +70,7 @@
 | Platform | Certificates |
 |---|---|
 | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white) | 1 |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) | 2 |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) | 3 |
 | ![Educative](https://img.shields.io/badge/Educative-2B2B2B?style=flat&logo=educative&logoColor=white) | 1 |
 
 ---
